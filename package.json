@@ -1,11 +1,12 @@
 {
-    "homepage": "http://jjmv.github.io/MewProject",
+  "homepage": "https://jjmv.github.io/MewProject",
   "name": "mewproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
+    "react-router-dom": "^4.4.0-alpha.0",
     "react-scripts": "1.1.4"
   },
   "scripts": {
